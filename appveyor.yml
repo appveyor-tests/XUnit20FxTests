@@ -1,1 +1,4 @@
 image: Visual Studio 2019
+
+build:
+  project: XUnit20FxTests.sln
