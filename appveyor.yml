@@ -8,4 +8,4 @@ build:
 
 
 test_script:
-- '%xunit20%\xunit.console.x86 bin\Debug\XUnit20FxTests.dll -noautoreporters'
+- '%xunit20%\xunit.console.x86 bin\Debug\XUnit20FxTests.dll -noautoreporters -xml results1.xml'
